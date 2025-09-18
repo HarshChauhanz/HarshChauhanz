@@ -19,68 +19,53 @@ Here are some of the technologies I work with:
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
      <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="Numpy" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="Numpy" />
       <br>Numpy
     </td>
     <td align="center" width="96">
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="48" alt="Seaborn" />
       <br>Seaborn
     </td>
     <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Tkinter-logo.svg" width="48" height="48" alt="Tkinter" />
       <br>Tkinter
     </td>
     <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/353940/javafx.svg" width="48" height="48" alt="JavaFX" />
       <br>JavaFX
     </td>
      <td align="center" width="96">
-      <a href="#-my-tech-stack">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
   </tr>
