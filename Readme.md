@@ -45,23 +45,24 @@ Here are some of the technologies I work with:
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+      <a href="#-my-tech-stack">
+        <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+      </a>
       <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="Numpy" />
+      <a href="#-my-tech-stack">
+        <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="Numpy" />
+      </a>
       <br>Numpy
     </td>
     <td align="center" width="96">
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" height="40" alt="Seaborn" />
       <br>Seaborn
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Tkinter-logo.svg" width="48" height="48" alt="Tkinter" />
       <br>Tkinter
     </td>
     <td align="center" width="96">
-      <img src="https://logowik.com/content/uploads/images/javafx5588.jpg" width="48" height="48" alt="JavaFX" />
       <br>JavaFX
     </td>
      <td align="center" width="96">
@@ -88,5 +89,4 @@ Feel free to reach out. I'm always open to connecting with fellow developers and
 
 <p align="left">
 <a href="https://linkedin.com/in/harsh-chauhan-823414322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="30" width="40" /></a>
-<a href="chauhanharsh0404@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Email Address" height="30" width="40" /></a>
 </p>
