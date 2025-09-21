@@ -1,18 +1,18 @@
-#  I'm Harsh Chauhan 👋
+#  I'm Harsh Chauhan 
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 * I am learning and exploring new technologies to improve my skill set.
 * My specialty lies in **front-end development** and UI design, ensuring a seamless and engaging user experience.
-* Competitve programmer 🧠 I enjoy the challenge of **competitive programming**, which sharpens my logical thinking and algorithm design skills.
+* Competitve programmer - I enjoy the challenge of **competitive programming**, which sharpens my logical thinking and algorithm design skills.
 * Skilled in  **Python, Java, C++, and UI/UX principles**.
 * I'm a huge cricket enthusiast and gamer!
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 Here are some of the technologies I work with:
 
@@ -73,7 +73,7 @@ Here are some of the technologies I work with:
 
 ---
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshChauhanz&show_icons=true&theme=radical&rank_icon=github" alt="Harsh Chauhan's GitHub Stats" />
@@ -82,7 +82,7 @@ Here are some of the technologies I work with:
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 Feel free to reach out. I'm always open to connecting with fellow developers and discussing new opportunities.
 
